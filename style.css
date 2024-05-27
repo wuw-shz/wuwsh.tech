@@ -5,7 +5,7 @@
   align-items: center;
   height: 100dvh;
   background-color: #0d1117;
-  animation: up 2s ease, down 3s ease 5s, fadeOut 2s ease 3s forwards;
+  animation: up 2s ease, fadeOut 2s ease 3s forwards;
   transform: translateY(-100px);
 }
 
